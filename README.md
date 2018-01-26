@@ -1,2 +1,2 @@
 # Blinker
-Use a LED to tell the status of you Arduino program
+Use a LED to give feedback from your sketch
