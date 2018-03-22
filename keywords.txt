@@ -12,9 +12,9 @@ Blinker	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-on		    KEYWORD2
-off		    KEYWORD2
-once        KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+once	KEYWORD2
 continuous	KEYWORD2
 
 
